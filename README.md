@@ -55,7 +55,7 @@ MEDISTOCK/
 1. Clone the repository:
 
 ```id="p0k3sj"
-git clone https://github.com/your-username/MEDISTOCK.git
+https://github.com/suvedant/MEDISTOCK-Medicine-Stock-Management-System.git
 ```
 
 2. Move project to XAMPP htdocs folder:
